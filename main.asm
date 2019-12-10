@@ -4,7 +4,7 @@
 ; Created: 12/7/2019 2:18:54 PM
 ; Author : Matt Donald, Max Latura
 ;
-;Ports used J1,Port E 
+;Ports used J1,Port C 
 
 .dseg
 .org 0x2000
